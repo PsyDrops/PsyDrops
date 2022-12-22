@@ -11,8 +11,7 @@
 <p align="left">
   ⚡ Após concluir meu curso de contabilidade resolvi dar chance para a área de programção e desde então venho me apaixonando e alimentando a ideia de migrar
 </p>
-<br/>
-  
+
 <h3 align="center">  
   Cursos em andamento ⏳
 </h3>
